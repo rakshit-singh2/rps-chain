@@ -28,6 +28,9 @@ Install and run `rpsd`:
 git clone https://github.com/0xlb/rps-chain
 cd rps-chain
 make install # install the rpsd binary
+find $HOME -name rpsd ## command for linux
+export PATH=$PATH:/home/{systemUserName}/go/bin
+ ## command for linux
 make init # initialize the chain
 rpsd start # start the chain
 ```
