@@ -1,7 +1,7 @@
 syntax = "proto3";
 package lb.rps.v1;
 
-option go_package = "github.com/0xlb/rpschain/x/rps/types";
+option go_package = "github.com/rakshit-singh2/rpschain/x/rps/types";
 
 import "cosmos_proto/cosmos.proto";
 
