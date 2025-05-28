@@ -4,7 +4,7 @@ package lb.rps.v1;
 import "gogoproto/gogo.proto";
 import "lb/rps/v1/rps.proto";
 
-option go_package = "github.com/0xlb/rpschain/x/rps/types";
+option go_package = "github.com/rakshit-singh2/rps-chain/x/rps/types";
 
 // GenesisState defines the rps module's genesis state
 message GenesisState {

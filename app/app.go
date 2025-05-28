@@ -31,10 +31,10 @@ import (
 	genutiltypes "github.com/cosmos/cosmos-sdk/x/genutil/types"
 	stakingkeeper "github.com/cosmos/cosmos-sdk/x/staking/keeper"
 
-	rpskeeper "github.com/0xlb/rpschain/x/rps/keeper"
+	rpskeeper "github.com/rakshit-singh2/rpschain/x/rps/keeper"
 
 	_ "cosmossdk.io/api/cosmos/tx/config/v1"          // import for side-effects
-	_ "github.com/0xlb/rpschain/x/rps"                // import for side-effects
+	_ "github.com/rakshit-singh2/rpschain/x/rps"                // import for side-effects
 	_ "github.com/cosmos/cosmos-sdk/x/auth"           // import for side-effects
 	_ "github.com/cosmos/cosmos-sdk/x/auth/tx/config" // import for side-effects
 	_ "github.com/cosmos/cosmos-sdk/x/bank"           // import for side-effects

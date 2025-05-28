@@ -8,7 +8,7 @@ import "cosmos/app/v1alpha1/module.proto";
 // Learn more: https://docs.cosmos.network/main/building-modules/depinject
 message Module {
   option (cosmos.app.v1alpha1.module) = {
-    go_import : "github.com/0xlb/rpschain/x/rps"
+    go_import : "github.com/rakshit-singh2/rps-chain/x/rps"
   };
 
   // authority defines the custom module authority.

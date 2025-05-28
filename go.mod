@@ -1,4 +1,4 @@
-module github.com/0xlb/rpschain
+module github.com/rakshit-singh2/rps-chain
 
 go 1.21
 

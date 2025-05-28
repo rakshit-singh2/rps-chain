@@ -21,7 +21,7 @@ buf generate --template buf.gen.pulsar.yaml
 
 cd ..
 
-cp -r github.com/0xlb/rpschain/* ./
+cp -r github.com/rakshit-singh2/rps-chain/* ./
 rm -rf api && mkdir api
 mv lb/* ./api
 rm -rf github.com lb
