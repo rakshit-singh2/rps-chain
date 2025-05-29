@@ -4,7 +4,7 @@ import (
 	"bytes"
 
 	"cosmossdk.io/errors"
-	"github.com/0xlb/rpschain/x/rps/rules"
+	"github.com/rakshit-singh2/rpschain/x/rps/rules"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 )
 

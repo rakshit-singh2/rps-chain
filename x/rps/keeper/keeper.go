@@ -9,7 +9,7 @@ import (
 	storetypes "cosmossdk.io/core/store"
 	"github.com/cosmos/cosmos-sdk/codec"
 
-	"github.com/0xlb/rpschain/x/rps/types"
+	"github.com/rakshit-singh2/rpschain/x/rps/types"
 )
 
 type Keeper struct {

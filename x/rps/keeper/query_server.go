@@ -5,7 +5,7 @@ import (
 	"errors"
 
 	"cosmossdk.io/collections"
-	"github.com/0xlb/rpschain/x/rps/types"
+	"github.com/rakshit-singh2/rpschain/x/rps/types"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )

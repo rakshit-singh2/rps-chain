@@ -14,8 +14,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
 
-	"github.com/0xlb/rpschain/x/rps/keeper"
-	"github.com/0xlb/rpschain/x/rps/types"
+	"github.com/rakshit-singh2/rpschain/x/rps/keeper"
+	"github.com/rakshit-singh2/rpschain/x/rps/types"
 )
 
 var (

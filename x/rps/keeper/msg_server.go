@@ -7,8 +7,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/0xlb/rpschain/x/rps/rules"
-	"github.com/0xlb/rpschain/x/rps/types"
+	"github.com/rakshit-singh2/rpschain/x/rps/rules"
+	"github.com/rakshit-singh2/rpschain/x/rps/types"
 )
 
 type msgServer struct {
